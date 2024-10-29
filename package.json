@@ -61,7 +61,7 @@
     "html-to-text": "^9.0.5",
     "jsdom": "^23.1.0",
     "json-colorizer": "^2.2.2",
-    "langchain": "^0.1.0",
+    "langchain": "^0.2.19",
     "nanoid": "^5.0.4",
     "node-fetch": "^3.3.2",
     "ora": "^7.0.1",
